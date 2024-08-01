@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438377710163",
+    "project_id": "intern-d5815",
+    "storage_bucket": "intern-d5815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438377710163:android:d3b318647b79b2d65ebca6",
+        "android_client_info": {
+          "package_name": "com.example.intern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8M2L6VazBWuayTZtB0AmjGGtnH7AdebE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

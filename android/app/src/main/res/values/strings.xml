@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GradNet</string>
+    <string name="facebook_app_id">825916602845884</string>
+    <string name="fb_login_protocol_scheme">fb825916602845884</string>
+    <string name="facebook_client_token">ec08f8a61b26768d326a6d70a1d0be91</string>
+
+
+</resources>
